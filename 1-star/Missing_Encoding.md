@@ -2,7 +2,7 @@
 
 ## Challenge Details
 
-**Difficulty** : ✯
+**Difficulty** : ✯\
 **Category** : Improper Input Validation
 
 **Description**
