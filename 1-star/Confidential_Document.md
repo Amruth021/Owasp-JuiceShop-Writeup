@@ -9,6 +9,7 @@
 ## Challenge Description
 
 Access a confidential document.
+Confidential document leak to the unauthorized exposure of sensitive information, which can occur due to security vulnerabilities or negligence. 
 
 ## Step-by-Step Solution
 
