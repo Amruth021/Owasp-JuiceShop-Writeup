@@ -2,8 +2,8 @@
 
 ## Challenge Details
 
-**Difficulty** : ✯\
-**Category** : Improper Input Validation\
+**Difficulty** : ✯.\
+**Category** : Improper Input Validation
 
 **Description**
 
