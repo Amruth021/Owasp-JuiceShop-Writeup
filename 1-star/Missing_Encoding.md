@@ -20,7 +20,7 @@
   
   <img src="../assets/difficulty1/missing_encoding_1.png" alt="code image" width="500px">
   
-- **Fix**: Encode the `#` Character in url encoding using any website and replace it with in the src atribute using inspect element option
+- **Fix**: Encode the `#` Character and replace it with in the src atribute using inspect element option
 
 ## Remediation
 
