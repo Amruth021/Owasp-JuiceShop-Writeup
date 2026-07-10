@@ -14,7 +14,7 @@
 
 - **Identify the Issue**:  The web app provides QR code for crypto transaction in wallet section. The JavaScript code managing these QR codes, found within the main.js file, reveals that specific cryptocurrency addresses are hard-coded, and there is a redirect function that points to these addresses based on the user's selection.
   
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/1-star/Outdated_allowlist.png" alt="code image" width="500px">
   
 - **Exploit**: Navigate to the redirect URL to solve the challenge
 
