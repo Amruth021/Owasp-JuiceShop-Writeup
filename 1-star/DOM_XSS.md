@@ -27,7 +27,7 @@ Perform a DOM XSS attack with <iframe src="javascript:alert(`xss`)">.
 4. **Execute the Attack**:
    - The resulted URL in the execution of the malicious script will display an alert box indicating a successful XSS attack.
 
-   <img src="../images/" alt="alt text" width="500px">
+   <img src="../images/1-star/dom_xss.png" alt="alt text" width="500px">
 
 
 This challenge was solved by injecting and executing a JavaScript code through an iframe's source attribute in a URL parameter that influences the DOM. This was a classic case of DOM-based XSS where user input directly affects the DOM without proper sanitization.
