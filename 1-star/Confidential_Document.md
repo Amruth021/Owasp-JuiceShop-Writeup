@@ -17,7 +17,7 @@ Confidential document leak to the unauthorized exposure of sensitive information
 2. **Identify the Target File**: Locate the file `acquisition.md` among the list of files on the server. This might contain information about company acquisitions(Assets), which is a confidential topic.
 3. **Analyze the Content**: The document explicitly mentions it as confidential and must not be distributed.
 
-<img src=".." alt="confidential" width="500px">
+<img src="../images/1-star/Confid_Doc.png" alt="confidential" width="500px">
 
 ## Remediation
 
