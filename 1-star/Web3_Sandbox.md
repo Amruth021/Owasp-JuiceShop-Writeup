@@ -16,7 +16,7 @@
     
 - **Accessing the Sandbox:**: Upon navigating to the correct URL for web3 sandbox, you will find a fully functional Web3 code sandbox environment. This sandbox included features for editing, compiling, and deploying Ethereum smart contracts directly from the browser.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/1-star/web3_sandbox.png" alt="code image" width="500px">
 
 ## Remediation
 
