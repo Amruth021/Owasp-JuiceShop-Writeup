@@ -15,7 +15,7 @@ Exposed metrics in OWASP refer to sensitive data that can be accessed through pu
 
 1. **Review Application Documentation**: Examine the official documentation of Prometheus to understand its default configurations. Prometheus typically exposes metrics at the `/metrics` endpoint.
 
-   <img src=".." alt="metrics" width="500px">
+   <img src="../images/1-star/Exposed_endp1.png" alt="metrics" width="500px">
 
 3. **Access the Endpoint**: Visited `/metrics` in the browser, to find the metrics endpoint as per the default configuration of Prometheus.
 
