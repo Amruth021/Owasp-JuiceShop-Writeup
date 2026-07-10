@@ -21,7 +21,7 @@ Improper error handling occurs when an application fails to manage errors correc
 
 The error was provoked by attempting to access an invalid URL on the server, The server responded with a detailed error message indicating:
 
-<img src=".." alt="error" width="500px">
+<img src="../images/1-star/Error_hand.png" alt="error" width="500px">
 
 
 ## Remediation
