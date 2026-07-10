@@ -16,7 +16,7 @@
     
 - **Submit Review & Modify:**: Attempt to submit a review normally through the website's interface, Modify the Request by Altering the ratings parameter in the intercepted request to 0, despite the website originally not allowing a zero-star rating to be submitted through its user interface.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/1-star/zero_star.png" alt="code image" width="500px">
 
 - Send the modified request to the server, successfully submitting a zero-star review.
 
