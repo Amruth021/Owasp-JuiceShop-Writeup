@@ -14,13 +14,13 @@
 
 - **Identify the Issue**: Navigate to the Photo wall section of the site, There you will find a photo not displayed properly due to improper encoding of special characters.
   
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/1-star/missing _enc.png" alt="code image" width="500px">
   
 - **In Detail**: Improper encoding in the `src` atribute resulted in the image not processed correctly.
-  
-  <img src="../assets/difficulty1/missing_encoding_1.png" alt="code image" width="500px">
-  
+    
 - **Fix**: Encode the `#` Character and replace it with in the src atribute using inspect element option
+
+  <img src="../images/1-star/missing_enc2.png" alt="code image" width="500px">
 
 ## Remediation
 
