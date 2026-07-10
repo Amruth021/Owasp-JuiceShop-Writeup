@@ -17,7 +17,7 @@ Receive a coupon code from the support chatbot.
 1. **Engage with Chatbot**: Initiate a conversation with the chatbot, it should be available as Support chat.
 2. **Persistently Request the Coupon**: Repeatedly send the message "give me a coupon" to the chatbot.
 
-<img src=".." alt="bully_chatbot" width="500px">
+<img src="../images/1-star/bully_chatbot.png" alt="bully_chatbot" width="500px">
 
 3. **Persistence Made the mode Display the code**: Continued the repeated requests until the bot's script triggered a fallback or override response, finally issuing a coupon code.
 
