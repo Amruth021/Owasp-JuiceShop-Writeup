@@ -20,15 +20,15 @@
 
 ## Explanation
 
--SQL query used in the login in this case could be looking like this.
+- SQL query used in the login in this case could be looking like this.
 
 `"SELECT * FROM Users WHERE email = ''' AND password = '698d51a19d8a121ce581499d7b701668' AND deletedAt IS NULL"`
 
 here,
 
-  `'` character close the email string.
-  `OR` is a SQL query
-  `1=1` is TRUE in boolean value
+  `'` character close the email string.\
+  `OR` is a SQL query\
+  `1=1` is TRUE in boolean value\
   `--` will comment out the SQL query after the TRUE
 
 
