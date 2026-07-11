@@ -16,10 +16,10 @@
     
 - **Locate Hardcoded Creds**: Search through files using specific keywords that could fasten the search
   
-`credentials
+``credentials
 password
 login
-@juice-sh.op`
+@juice-sh.op``
 
 - **Use the Creds**: Login using the found Credentials to complete the challenge.
 
