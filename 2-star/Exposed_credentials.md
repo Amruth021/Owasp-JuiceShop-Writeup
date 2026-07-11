@@ -16,7 +16,8 @@
     
 - **Locate Hardcoded Creds**: Search through files using specific keywords that could fasten the search
   
-```credentials
+```
+credentials
 password
 login
 @juice-sh.op
