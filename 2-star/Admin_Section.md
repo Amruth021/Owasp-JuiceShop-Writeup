@@ -14,7 +14,7 @@
 
 - **Search Source Files**: Search through source code files and find the path for the section.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/admin_Sec.png" alt="code image" width="500px">
     
 - Visit the path to complete the challenge.
 
