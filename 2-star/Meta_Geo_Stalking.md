@@ -16,7 +16,7 @@
 
 - Run Exiftool on the image and find the GPS coordinates that was taken from.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/Metastalk.png" alt="code image" width="500px">
 
 - With the location identified as Daniel Boone National Forest, this will be used as the answer to the security question and  reset John’s password.
 
