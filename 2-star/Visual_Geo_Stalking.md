@@ -18,7 +18,7 @@
 
 - The term "ITsec" will be visible by zooming the Post. Using "ITsec" as the security question answer will allow the password reset for Emma's account.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/visual_geoStalk.png" alt="code image" width="500px">
 
 ## Remediation
 
