@@ -13,11 +13,10 @@
 ## Solution
 
 - Intercept the request sent to basket by clicking on basket icon.
+
+    <img src="../images/2-star/view_basket.png" alt="code image" width="500px">
     
 - Change the basket ID to see if the you see another user's shopping basket.
-
-  <img src=".." alt="code image" width="500px">
-
 
 ## Remediation
 
