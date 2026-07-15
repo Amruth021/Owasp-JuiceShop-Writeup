@@ -14,7 +14,7 @@
 
 - Just need to upload an XML file in Complaint Box and to complete the challenge
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/B2B.png" alt="code image" width="500px">
 
 
 ## Remediation
