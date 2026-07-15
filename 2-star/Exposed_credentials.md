@@ -25,7 +25,7 @@ login
 
 - **Use the Creds**: Login using the found Credentials to complete the challenge.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/Exposed_Creds.png" alt="code image" width="500px">
 
 ## Remediation
 
