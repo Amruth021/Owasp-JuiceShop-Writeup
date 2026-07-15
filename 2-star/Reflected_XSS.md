@@ -18,7 +18,7 @@
 
 - **Injecting Payload**: By navigating to the URL with the crafted payload, The payload will get reflected leading to execution of JS code.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/Reflected_XSS.png" alt="code image" width="500px">
 
 ## Remediation
 
