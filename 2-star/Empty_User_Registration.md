@@ -16,11 +16,11 @@
 
 - Change the user email and password to null or just space value.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/empty_user.png" alt="code image" width="500px">
 
 - This resulted in the server processing the request without these fields, leading to the creation of a Empty user with no email and password.
 
-    <img src=".." alt="code image" width="500px">
+    <img src="../images/2-star/empty_user1.png" alt="code image" width="500px">
 
 
 ## Remediation
