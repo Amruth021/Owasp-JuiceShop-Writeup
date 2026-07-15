@@ -16,7 +16,7 @@
     
 - **Setup for Brute Force**: Configure Burp Suite's Intruder mode to use a list of common passwords.
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/admin_pass.png" alt="code image" width="500px">
 
 - Got The Pass!.
 
