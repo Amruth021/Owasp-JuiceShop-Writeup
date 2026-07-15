@@ -14,7 +14,7 @@
 
 - **Exploit**: Use of classic SQL injection test payload `' or 1=1--`.
 
-    <img src=".." alt="code image" width="500px">
+    <img src="../images/2-star/Login_admin.png" alt="code image" width="500px">
   
 - **Admin Login**: Just using the payload will land you on admin account.
 
