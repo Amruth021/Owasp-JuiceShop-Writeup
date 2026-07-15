@@ -14,7 +14,7 @@
 
 - `Security.txt` is a draft by the Internet Engineering Task Force (IETF) aimed at making it easier for organizations to disclose security practices. Websites are encouraged to place this file under the /.well-known/ directory according to the draft's guidelines (https://securitytxt.org/).
 
-  <img src=".." alt="code image" width="500px">
+  <img src="../images/2-star/policy.png" alt="code image" width="500px">
 
 - Visiting the path will solve the challenge.
 
