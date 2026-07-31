@@ -14,7 +14,7 @@
 
 - **Testing Feedback Feature**: Login and submit a dummy feedback and intercept the request in burp.
 
-  <img src="../images/3-star/.png" alt="code image" width="500px">
+  <img src="../images/3-star/forged_feedback.png" alt="code image" width="500px">
     
 - Change the `userid` parameter to post review impersonating another user.
 
