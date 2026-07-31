@@ -16,7 +16,7 @@
 
 - **Intercept** : Intercept the request thru burp proxy and examine the HTTP request sent to the server.
 
--   <img src="../images/3-star/.png" alt="code image" width="500px">
+-   <img src="../images/3-star/Admin_reg.png" alt="code image" width="500px">
 
 - The response for registration of has a user role defined, change the role to admin and add it to request to complete the challenge.
 
