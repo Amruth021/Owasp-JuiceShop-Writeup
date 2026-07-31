@@ -13,7 +13,7 @@
 
 - **API Endpoint Discovery** : Use the browser or a tool to list all product details by accessing the `/api/Products` endpoint.
 
-   <img src="../images/3-star/.png" alt="code image" width="500px">
+   <img src="../images/3-star/product_Tampering.png" alt="code image" width="500px">
 
 - Using the above api endpoint its visible that this endpoint is vulnerable to data override. Construct a JSON payload with the description field altered to include : `<a href="https://owasp.slack.com" target="_blank">More...</a>`.
 
