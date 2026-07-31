@@ -17,7 +17,7 @@
 - **Schema Extraction** : Use the union query displayed in response when a single quote `'` is used. After few trail and error the resulting payload will look something like this :
 -  `test')) UNION SELECT 1, 2, 3, 4, 5, 6, 7, 8, sql FROM sqlite_schema--`
 
--   <img src="../images/3-star/.png" alt="code image" width="500px">
+-   <img src="../images/3-star/DB_schema.png" alt="code image" width="500px">
 
 ## Remediation
 
