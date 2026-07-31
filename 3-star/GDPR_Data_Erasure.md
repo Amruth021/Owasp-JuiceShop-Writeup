@@ -14,7 +14,7 @@
 
 - **SQLi Testing** : By testing for sqli in the login page the error from response hints about a `DeletedAt` parameter in loggin in.
 
--   <img src="../images/3-star/.png" alt="code image" width="500px">
+-   <img src="../images/3-star/GDPR.png" alt="code image" width="500px">
 
   
 - **Accessing Deleted Account** : Modifying the login request to include an SQL injection payload that alters the query logic to return an account where DeletedAt is NOT NULL. The payload would look like this:
