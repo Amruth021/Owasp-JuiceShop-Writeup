@@ -15,7 +15,7 @@
 - **Find the Endpoint** : Use Burp-Suite check for the requests which are on `api` endpoints.
 - From the requests `api/Products/`  end-point which will give us the details about our Products and serve as a endpoint for XSS.
 
--   <img src="../images/3-star/.png" alt="code image" width="500px">
+-   <img src="../images/3-star/API-XSS.png" alt="code image" width="500px">
 
 - Insert payload into any Product id use PUT method and inside data to change the description permanently also change content-type since it will be JSON data.
 
