@@ -18,7 +18,7 @@
 
 - On his account you will find a post featuring a picture of his cat named `Zaya`.
 
--   <img src="../images/3-star/.png" alt="code image" width="500px">
+-   <img src="../images/3-star/bjoern_pet.png" alt="code image" width="500px">
 
 
 ## Remediation
